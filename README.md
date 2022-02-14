@@ -2,7 +2,9 @@
 
 # Project Name
 
-> Hello Microverse
+> Milestone 1 on portfolio mobile version
+
+![screenshot](./images/screenshot.png)
 
 ## Built With
 
@@ -10,7 +12,7 @@
 - CSS
 - Linters
 
-**This is an documenttation of hello-microverse project.**
+**This is an documenttation of milestone 1 on portfolio mobile version.**
 
 ## Author
 
